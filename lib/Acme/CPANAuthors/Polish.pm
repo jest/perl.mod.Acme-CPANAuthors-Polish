@@ -4,10 +4,11 @@ use utf8;
 use strict;
 use warnings;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use Acme::CPANAuthors::Register (
-	PWES => 'Przemysław Wesołek'
+	PWES   => 'Przemysław Wesołek',
+	TADZIK => 'Tadeusz Sośnierz'
 );
 
 1;
@@ -36,8 +37,8 @@ version 0.001
 	my @ids = $authors->id;
 	my @distros = $authors->distributions("PWES");
 	my $url = $authors->avatar_url("PWES");
-	my $kwalitee = $authors->kwalitee("PWES");
-	my $name = $authors->name("PWES");
+	my $kwalitee = $authors->kwalitee("TADZIK");
+	my $name = $authors->name("TADZIK");
 
 See documentation for L<Acme::CPANAuthors> for more details.
 
