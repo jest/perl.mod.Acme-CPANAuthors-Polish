@@ -7,8 +7,27 @@ use warnings;
 our $VERSION = '0.02';
 
 use Acme::CPANAuthors::Register (
-	PWES   => 'Przemysław Wesołek',
-	TADZIK => 'Tadeusz Sośnierz'
+    PWES      => 'Przemysław Wesołek',
+    TADZIK    => 'Tadeusz Sośnierz',
+    ZBY       => 'Zbigniew Łukasiak',
+    ZBYS      => 'Zbigniew Sroczynski',
+    XENU      => 'Tomasz Konojacki',
+    GBSHOUSE  => 'Piotr Ginalski',
+    BIESZCZAD => 'Krzysztof Bieszczad',
+    ADAMOWSKI => 'Aleksander Adamowski',
+    DEXTER    => 'Piotr Roszatycki',
+    ODYNIEC   => 'Michał Wojciechowski',
+    IZI       => 'Krzysztof Suchomski',
+    ANNIHITEK => 'Mateusz Szczyrzyca',
+    PKALUSKI  => 'Piotr Kałuski',
+    PCZERKAS  => 'Przemek Czerkas',
+    DADAMK    => 'Darek Adamkiewicz',
+    AJGB      => 'Alex J. G. Burzyński',
+    PAPKALA   => 'Grzegorz Papkala',
+    MCEGLOWS  => 'Maciej Ceglowski',
+    DEPESZ    => 'Hubert depesz Lubaczewski',
+    SEBNOW    => 'Sebastian Nowicki',
+    STRZELEC  => 'Łukasz Strzelecki',
 );
 
 1;
