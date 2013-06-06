@@ -6,7 +6,7 @@ Acme::CPANAuthors::Polish - jesteśmy autorami-Polakami modułów na CPAN
 
 # VERSION
 
-version 0.001
+version 0.02
 
 # SYNOPSIS
 
@@ -15,10 +15,10 @@ version 0.001
 
 	my $number = $authors->count;
 	my @ids = $authors->id;
-	my @distros = $authors->distributions("PWES");
+	my @distros = $authors->distributions("ZBY");
 	my $url = $authors->avatar_url("PWES");
-	my $kwalitee = $authors->kwalitee("PWES");
-	my $name = $authors->name("PWES");
+	my $kwalitee = $authors->kwalitee("TADZIK");
+	my $name = $authors->name("PMURIAS");
 
 See documentation for [Acme::CPANAuthors](http://search.cpan.org/perldoc?Acme::CPANAuthors) for more details.
 

@@ -46,7 +46,7 @@ Acme::CPANAuthors::Polish - jesteśmy autorami-Polakami modułów na CPAN
 
 =head1 VERSION
 
-version 0.001
+version 0.02
 
 =head1 SYNOPSIS
 
@@ -54,10 +54,10 @@ version 0.001
 	
 	my $number = $authors->count;
 	my @ids = $authors->id;
-	my @distros = $authors->distributions("PWES");
+	my @distros = $authors->distributions("ZBY");
 	my $url = $authors->avatar_url("PWES");
 	my $kwalitee = $authors->kwalitee("TADZIK");
-	my $name = $authors->name("TADZIK");
+	my $name = $authors->name("PMURIAS");
 
 See documentation for L<Acme::CPANAuthors> for more details.
 
