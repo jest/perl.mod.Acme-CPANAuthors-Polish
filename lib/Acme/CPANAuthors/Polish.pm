@@ -15,6 +15,7 @@ use Acme::CPANAuthors::Register (
     DEPESZ    => 'Hubert depesz Lubaczewski',
     DEXTER    => 'Piotr Roszatycki',
     GBSHOUSE  => 'Piotr Ginalski',
+    GLITCHMR  => 'Konrad Borowski',
     IZI       => 'Krzysztof Suchomski',
     MCEGLOWS  => 'Maciej Ceglowski',
     ODYNIEC   => 'Michał Wojciechowski',
