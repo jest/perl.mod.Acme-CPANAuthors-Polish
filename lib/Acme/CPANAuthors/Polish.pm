@@ -26,6 +26,7 @@ use Acme::CPANAuthors::Register (
     SEBNOW    => 'Sebastian Nowicki',
     STRZELEC  => 'Łukasz Strzelecki',
     TADZIK    => 'Tadeusz Sośnierz',
+    XAERXESS  => 'Grzegorz Rożniecki',
     XENU      => 'Tomasz Konojacki',
     ZBY       => 'Zbigniew Łukasiak',
     ZBYS      => 'Zbigniew Sroczynski',
