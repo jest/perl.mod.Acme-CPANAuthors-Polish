@@ -6,13 +6,12 @@ Acme::CPANAuthors::Polish - jesteśmy autorami-Polakami modułów na CPAN
 
 # VERSION
 
-version 0.02
+version 0.03
 
 # SYNOPSIS
 
 	use Acme::CPANAuthors->new('Polish');
 	
-
 	my $number = $authors->count;
 	my @ids = $authors->id;
 	my @distros = $authors->distributions("ZBY");
@@ -20,7 +19,7 @@ version 0.02
 	my $kwalitee = $authors->kwalitee("TADZIK");
 	my $name = $authors->name("PMURIAS");
 
-See documentation for [Acme::CPANAuthors](http://search.cpan.org/perldoc?Acme::CPANAuthors) for more details.
+See documentation for [Acme::CPANAuthors](https://metacpan.org/pod/Acme::CPANAuthors) for more details.
 
 # DESCRIPTION
 
@@ -37,13 +36,13 @@ we will remove your name.
 
 # SEE ALSO
 
-[Acme::CPANAuthors](http://search.cpan.org/perldoc?Acme::CPANAuthors) - Main class to manipulate the authors, also in this module
+[Acme::CPANAuthors](https://metacpan.org/pod/Acme::CPANAuthors) - Main class to manipulate the authors, also in this module
 
 Module code inspired by:
 
-[Acme::CPANAuthors::British](http://search.cpan.org/perldoc?Acme::CPANAuthors::British)
+[Acme::CPANAuthors::British](https://metacpan.org/pod/Acme::CPANAuthors::British)
 
-[Acme::CPANAuthors::Russian](http://search.cpan.org/perldoc?Acme::CPANAuthors::Russian)
+[Acme::CPANAuthors::Russian](https://metacpan.org/pod/Acme::CPANAuthors::Russian)
 
 # AUTHOR
 
