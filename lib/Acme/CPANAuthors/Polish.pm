@@ -11,6 +11,7 @@ use Acme::CPANAuthors::Register (
     AJGB      => 'Alex J. G. Burzyński',
     ANNIHITEK => 'Mateusz Szczyrzyca',
     BIESZCZAD => 'Krzysztof Bieszczad',
+    BRTASTIC  => 'Bartosz Jarzyna',
     DADAMK    => 'Darek Adamkiewicz',
     DEPESZ    => 'Hubert depesz Lubaczewski',
     DEXTER    => 'Piotr Roszatycki',
